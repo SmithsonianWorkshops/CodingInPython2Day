@@ -1,6 +1,6 @@
 ## Install Required Software
 
-Before we begin our class, we would like everyone to have Python 3 installed on their laptops so that they can follow along in class. We will be using Miniconda, which includes Python 3, along with an easy system for installing Python packages.
+Before we begin our workshop, we would like everyone to have Python 3 installed on their laptops so that they can follow along in class. We will be using Miniconda, which includes Python 3, along with an easy system for installing Python packages.
 
 [Installing Miniconda on Mac](Installing miniconda on Mac.md)
 
