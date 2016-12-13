@@ -1,5 +1,13 @@
 ## Downloading and viewing Jupyter notebooks
 
+If you haven't yet installed Jupyter notebook, you can do this using miniconda. To do this, simply open your terminal or command prompt and enter the command:
+
+```
+conda install jupyter
+```
+
+Jupyter should now be installed and ready to go.
+
 The best way to view the Jupyter notebooks is to clone the CodingInPython2Day GitHub repository so that you have it on your computer hard drive.
 
 As mentioned in class, you can do this by navigating to [CodingInPython2Day](https://github.com/SmithsonianWorkshops/CodingInPython2Day). Click on the "Clone or download" button and choose to "Download ZIP".
